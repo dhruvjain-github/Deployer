@@ -28,5 +28,5 @@ At this point following services would be up and running:
 
 ### Architecture
 
-![Deployer Architecture](https://i.imgur.com/mRPUZxi.png)
+![Deployer Architecture](https://imgur.com/mRPUZxi.png)
 

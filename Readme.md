@@ -24,7 +24,7 @@ At this point following services would be up and running:
 
 ### Demo
 
-[Watch The Demo Video](./static/video.mp4)
+[Watch The Demo Video](https://imgur.com/a/HO3ESld)
 
 ### Architecture
 
